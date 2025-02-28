@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "ms-python.python",
+    "detachhead.basedpyright"
+  ]
+}
